@@ -1,5 +1,5 @@
-#print "a"
-#print "b"
+print "a"
+print "b"
 #print "asdasdasd"
 #print "new"
 import json
